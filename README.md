@@ -61,7 +61,9 @@ ParallelPeriod([<измерение>].[<иерархия>].[<уровень>] --
 <br><br><br>
 
 **Финальный дашборд**<br>
-с вариативностью по цветграфическому решению<br><br>
+![Финальный_дашборд](https://github.com/ElenaTratsevskaya/OLAP-cube-and-dashboard-creation-in-Excel/assets/110056199/63ce431d-2092-489c-9a9f-4db9de8421f2)
+<br><br><br>
+**Вариативность по цветографическому решению**<br><br>
  ![Cub_5](https://github.com/ElenaTratsevskaya/OLAP-cube-and-dashboard-creation-in-Excel/assets/110056199/c12bf7d0-7bc4-4a72-8439-ae10c95ebd09)
 <br><br>
 <br>
